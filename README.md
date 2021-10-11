@@ -243,7 +243,7 @@ There are many ways to show behavior and events. One of them is a light techniqu
 
 Note: Event Storming is a light, live workshop. One of the possible outputs of this workshop is presented here. Even if you are not doing Event Storming workshops, this type of process presentation can be very valuable to you and your stakeholders.
 
-**User Registration and task management process**
+**User Registration process**
 
 ------
 
